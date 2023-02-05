@@ -54,7 +54,7 @@ const App: Component = () => {
 				<div class={styles.footer_bar}>
 					<div class={styles.blue_bar}></div>
 					<span>
-						© 2023 Website Designed and Developed By:{" "}
+						Website Designed and Developed By:{" "}
 						<a href="https://ronjeanfrancois.com">Ron Jean-Francois</a>
 					</span>
 				</div>
