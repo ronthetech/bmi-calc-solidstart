@@ -44,6 +44,7 @@ form.bmi h2 {
 	border: none;
 	border-radius: 5px;
 	margin-top: 10px;
+	text-align: center;
 }
 .results_container {
 	height: 5rem;
