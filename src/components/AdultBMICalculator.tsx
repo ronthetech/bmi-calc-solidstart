@@ -82,7 +82,7 @@ const AdultBMICalculator = () => {
 			</form>
 			<div class={styles.results_container}>
 				<p>Your BMI is:</p>
-				<Show when={!calculations()} fallback={<p></p>}>
+				<Show when={calculations()} fallback={<p></p>}>
 					<span>{BMI().toFixed(1)}</span>
 				</Show>
 			</div>
