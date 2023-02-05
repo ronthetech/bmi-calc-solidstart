@@ -9,6 +9,6 @@ Metric BMI Equation:
 Imperial/English BMI Equation:
 `weight (lb) / [height (in)] ** 2 * 703`
 
-Or you can use the calculator [here]().
+Or you can use the calculator [here](https://bmi-calculator-solid.vercel.app).
 
 ![BMI Calculator](https://github.com/ronthetech/bmi-calc-solidstart/blob/main/src/assets/bmi-calc/1.png?raw=true)
