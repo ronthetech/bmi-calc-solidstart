@@ -1,0 +1,13 @@
+table .bmi {
+	border: 1px solid rgb(104, 104, 104);
+	padding: 0.75rem 1rem;
+}
+thead > tr {
+	background-color: #a9a9a922;
+}
+tbody > tr {
+	background-color: #a9a9a911;
+}
+tbody {
+	text-align: center;
+}
