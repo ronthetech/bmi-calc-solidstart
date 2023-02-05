@@ -24,7 +24,7 @@ form.bmi h2 {
 	background-image: linear-gradient(
 		45deg,
 		rgb(var(--accent)),
-		#da62c4 30%,
+		#3d299e 30%,
 		white 60%
 	);
 	background-size: 400%;
@@ -36,7 +36,15 @@ form.bmi h2 {
 .submitBtn {
 	width: 50%;
 	justify-self: start;
-	background-color: rgb(77, 102, 243);
+	background-image: linear-gradient(
+		45deg,
+		rgb(var(--accent)),
+		#3d299e 30%,
+		white 60%
+	);
+
+	background-size: 400%;
+	/* background-color: rgb(77, 102, 243); */
 	color: white;
 	height: 2.25rem;
 	font-size: 1.2rem;
@@ -54,7 +62,7 @@ form.bmi h2 {
 	background-image: linear-gradient(
 		45deg,
 		rgb(var(--accent)),
-		#da62c4 30%,
+		#3d299e 30%,
 		white 60%
 	);
 	background-size: 400%;

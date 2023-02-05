@@ -30,7 +30,7 @@ h1 {
 	background: linear-gradient(
 		to right top,
 		rgb(var(--accent)),
-		#da62c4 30%,
+		#3d299e 30%,
 		white 60%
 	);
 	height: 3px;
@@ -47,7 +47,7 @@ h1 {
 	background-image: linear-gradient(
 		45deg,
 		rgb(var(--accent)),
-		#da62c4 30%,
+		#3d299e 30%,
 		white 60%
 	);
 	-webkit-background-clip: text;
