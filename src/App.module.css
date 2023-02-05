@@ -41,7 +41,7 @@ h1 {
 }
 
 .header_bar h2 {
-	margin: 0;
+	margin: 0 0 0 3rem;
 }
 .text_gradient {
 	background-image: linear-gradient(
