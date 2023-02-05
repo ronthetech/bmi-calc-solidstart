@@ -11,4 +11,4 @@ Imperial/English BMI Equation:
 
 Or you can use the calculator [here]().
 
-![BMI Calculator]()
+![BMI Calculator](https://github.com/ronthetech/bmi-calc-solidstart/blob/main/src/assets/bmi-calc/1.png?raw=true)
