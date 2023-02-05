@@ -32,7 +32,12 @@ form.bmi h2 {
 	color: white;
 	padding: 0.1rem 0.2rem;
 	border-radius: 0.5rem;
+	cursor: pointer;
 }
+.switch_metric {
+	cursor: pointer;
+}
+
 .submitBtn {
 	width: 50%;
 	justify-self: start;
